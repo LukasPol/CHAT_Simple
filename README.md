@@ -13,6 +13,6 @@ ChatterOffice entrou na luta para dar um fim nos dados que estão sendo “vazad
 
 Como sabemos que os seus dados não serão vistos por outros?
 
-**1º** - O chat só será realizado entre máquinas de IP’s que estão na mesma rede(Via Intranet);
-**2º** - Cada empresa terá seu servidor dentro de sua empresa, os desenvolvedores não terão nenhum acesso a estes. Ais tais que estarão responsáveis, onde colocar seu servidor;
-**3º** - Ao final de cada conversa, toda conversa será apagada. Ninguém mais tendo acesso, nem mesmo a máquina do servidor.
+* **1º** - O chat só será realizado entre máquinas de IP’s que estão na mesma rede(Via Intranet);
+* **2º** - Cada empresa terá seu servidor dentro de sua empresa, os desenvolvedores não terão nenhum acesso a estes. Ais tais que estarão responsáveis, onde colocar seu servidor;
+* **3º** - Ao final de cada conversa, toda conversa será apagada. Ninguém mais tendo acesso, nem mesmo a máquina do servidor.
