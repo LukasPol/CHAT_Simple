@@ -1,9 +1,9 @@
-# Projeto ChatterOffice `asdasd`
+# Projeto ChatterOffice 
 
 Criado por `Lukas Pol` e `Josenildo da Cunha`, alunos do IFRN - Campus Parnamirim. 
 Com ajuda do doutor `Rodrigo Siqueira`, matéria Redes de Computadores.
 
-[site](https://github.com/LukasPol)
+[site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) criado para a realização da apresentação `(dowloands não funciona)`
 
 # Como surgiu o Projeto?
 
