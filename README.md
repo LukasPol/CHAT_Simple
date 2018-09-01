@@ -1,14 +1,14 @@
-#Projeto ChatterOffice
+# Projeto ChatterOffice
 
-Criado por `Lukas Pol` e `Josenildo da Cunha`, alunos do IFNR - Parnamirim
+Criado por `Lukas Pol` e `Josenildo da Cunha`, alunos do IFNR - Parnamirim.
 Com ajuda do doutor `Rodrigo Siqueira`, matéria Redes de Computadores
 
-#Visão Geral
+# Visão Geral
 
 Com o intuito de dar mais segurança às empresas que estejam projetos e não querem que seus dados sejam explorados por terceiros, foi desenvolvido um software, que é um chat via Intranet. 
 Sendo simples. Rápido. Seguro. Criado todo na Linguagem Python.
 
-#Segurança
+# Segurança
 
 **Segurança é o sobrenome do programa!**
 
