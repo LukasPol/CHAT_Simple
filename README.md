@@ -3,7 +3,7 @@
 Criado por `Lukas Pol` e `Josenildo da Cunha`, alunos do IFRN - Campus Parnamirim. 
 Com ajuda do doutor `Rodrigo Siqueira`, matéria Redes de Computadores.
 
-site(https://github.com/LukasPol)
+[site](https://github.com/LukasPol)
 
 # Como surgiu o Projeto?
 
