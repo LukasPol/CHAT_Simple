@@ -7,14 +7,14 @@ Com ajuda do doutor `Rodrigo Siqueira`, matéria Redes de Computadores.
 
 **Obs.: dowloands não funciona, para testar, tem mais informações no final**
 
-# Como surgiu o Projeto?
+## Como surgiu o Projeto?
 
 Foi passado um trabalho para fazer uma aplicação que resolvesse um erro de comunição, na sociedade.
 E a equipe visualizou que empresas, pessoas, estavam tendo seus dados vazados, por meio de conversas. 
 
 Então foi pensado em criar um software para resolver este problema, assim surgindo o ChatterOfffice.
 
-# Visão Geral
+## Visão Geral
 
 Para conversas rápidas e que sejam feitas entre pessoas de uma mesma empresa, colégio, ou seja, conversas de pessoas que estajam na mesma rede. O ChatterOffice faz isso.
 
@@ -28,7 +28,8 @@ Como sabemos que os seus dados não serão vistos por outros?
 * 2º - Cada empresa terá seu servidor dentro de sua empresa, os desenvolvedores não terão nenhum acesso a estes. Ais tais que estarão responsáveis, onde colocar seu servidor;
 * 3º - Ao final de cada conversa, toda conversa será apagada. Ninguém mais tendo acesso, nem mesmo a máquina do servidor.
 
-# Se você desejar testar:
+## Se você desejar testar:
+
   - Dê um clone:
   ```
   git clone git@github.com:LukasPol/CHAT_Simple.git
