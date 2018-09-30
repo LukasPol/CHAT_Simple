@@ -3,7 +3,9 @@
 Criado por `Lukas Pol` e `Josenildo da Cunha`, alunos do IFRN - Campus Parnamirim. 
 Com ajuda do doutor `Rodrigo Siqueira`, matéria Redes de Computadores.
 
-[site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) criado para a realização da apresentação `(dowloands não funciona)`
+[site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) criado para a realização da apresentação.
+
+**Obs.: dowloands não funciona, para testar, tem mais informações no final**
 
 # Como surgiu o Projeto?
 
