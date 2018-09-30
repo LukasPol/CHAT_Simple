@@ -26,3 +26,17 @@ Como sabemos que os seus dados não serão vistos por outros?
 * 2º - Cada empresa terá seu servidor dentro de sua empresa, os desenvolvedores não terão nenhum acesso a estes. Ais tais que estarão responsáveis, onde colocar seu servidor;
 * 3º - Ao final de cada conversa, toda conversa será apagada. Ninguém mais tendo acesso, nem mesmo a máquina do servidor.
 
+# Se você desejar testar:
+  - Dê um clone:
+  ```
+  git clone git@github.com:LukasPol/CHAT_Simple.git
+   ``` 
+  ou
+   ``` 
+  git clone https://github.com/LukasPol/CHAT_Simple.git
+  ```      
+  
+  - Entre no Código do Server e Cliente e no campo *serverHost* muda o para o Ip onde ficará o servidor.
+  
+  
+  **Obs.:Rodará em um tela de terminal**
