@@ -1,7 +1,8 @@
 # Projeto ChatterOffice 
 
-Criado por `Lukas Pol` e `Josenildo da Cunha`, alunos do IFRN - Campus Parnamirim. 
-Com ajuda do doutor `Rodrigo Siqueira`, matéria Redes de Computadores.
+| Data       | Criadores         | Docente          | Matéria      | Instituição |
+| :--------: | :---------------: | :------:         | :----------: | :---------: |
+| 2018.1     | [Lukas](https://github.com/LukasPol) e Josenildo | [Rodrigo Siqueira](https://bit.ly/2CqzHyJ) | Redes de pcs | IFRN  |
 
 [site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) criado para a realização da apresentação.
 
@@ -28,7 +29,7 @@ Como sabemos que os seus dados não serão vistos por outros?
 * 2º - Cada empresa terá seu servidor dentro de sua empresa, os desenvolvedores não terão nenhum acesso a estes. Ais tais que estarão responsáveis, onde colocar seu servidor;
 * 3º - Ao final de cada conversa, toda conversa será apagada. Ninguém mais tendo acesso, nem mesmo a máquina do servidor.
 
-## Se você desejar testar:
+## Se você desejar testar ou nos ajudar a implementar uma interface gráfica:
 
   - Dê um clone:
   ```
