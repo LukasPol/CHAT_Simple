@@ -1,8 +1,10 @@
 # Projeto ChatterOffice 
 
-| Data       | Criadores         | Docente          | Matéria      | Instituição |
-| :--------: | :---------------: | :------:         | :----------: | :---------: |
-| 2018.1     | [Lukas](https://github.com/LukasPol) e Josenildo | [Rodrigo Siqueira](https://bit.ly/2CqzHyJ) | Redes de pcs | IFRN  |
+## Informações básicas
+
+| Data     | Criadores         | Docente          | Matéria      | Instituição |
+| :------: | :---------------: | :------:         | :----------: | :---------: |
+| 2018.1   | [Lukas](https://github.com/LukasPol) e Josenildo | [Rodrigo Siqueira](https://bit.ly/2CqzHyJ) | Redes de pcs | IFRN  |
 
 [site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) criado para a realização da apresentação.
 
