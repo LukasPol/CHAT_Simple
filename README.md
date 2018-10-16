@@ -6,7 +6,8 @@
 | :------: | :---------------: | :------:         | :----------: | :---------: |
 | 2018.1   | [Lukas](https://github.com/LukasPol) e Josenildo | [Rodrigo Siqueira](https://bit.ly/2CqzHyJ) | Redes de pcs | IFRN  |
 
-[site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) criado para a realização da apresentação.
+[site](https://sites.google.com/escolar.ifrn.edu.br/chatteroffice) 
+Como era só para fazer uma apresentação foi criado este site.. Mas futuramente criaremos nosso proprio site..
 
 **Obs.: dowloands não funciona, para testar, tem mais informações no final**
 
